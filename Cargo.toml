@@ -128,7 +128,7 @@ ipnet = "2.10.0"
 itertools = "0.10"
 itoa = "1.0.11"
 jemalloc_pprof = { version = "0.7", features = ["symbolize", "flamegraph"] }
-jsonwebtoken = "9"
+jsonwebtoken = "10"
 lasso = "0.7"
 libc = "0.2"
 lock_api = "0.4.13"
